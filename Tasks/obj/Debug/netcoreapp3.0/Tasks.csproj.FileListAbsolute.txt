@@ -1,0 +1,11 @@
+C:\Users\karvm\Desktop\Tasks\Tasks\bin\Debug\netcoreapp3.0\Tasks.exe
+C:\Users\karvm\Desktop\Tasks\Tasks\bin\Debug\netcoreapp3.0\Tasks.deps.json
+C:\Users\karvm\Desktop\Tasks\Tasks\bin\Debug\netcoreapp3.0\Tasks.runtimeconfig.json
+C:\Users\karvm\Desktop\Tasks\Tasks\bin\Debug\netcoreapp3.0\Tasks.runtimeconfig.dev.json
+C:\Users\karvm\Desktop\Tasks\Tasks\bin\Debug\netcoreapp3.0\Tasks.dll
+C:\Users\karvm\Desktop\Tasks\Tasks\bin\Debug\netcoreapp3.0\Tasks.pdb
+C:\Users\karvm\Desktop\Tasks\Tasks\obj\Debug\netcoreapp3.0\Tasks.csprojAssemblyReference.cache
+C:\Users\karvm\Desktop\Tasks\Tasks\obj\Debug\netcoreapp3.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\karvm\Desktop\Tasks\Tasks\obj\Debug\netcoreapp3.0\Tasks.AssemblyInfo.cs
+C:\Users\karvm\Desktop\Tasks\Tasks\obj\Debug\netcoreapp3.0\Tasks.dll
+C:\Users\karvm\Desktop\Tasks\Tasks\obj\Debug\netcoreapp3.0\Tasks.pdb
